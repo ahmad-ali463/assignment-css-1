@@ -1,6 +1,7 @@
 body{
     margin: 0%;
     padding: 0;
+    background-color: black;
 }
 
 .container{
@@ -86,4 +87,5 @@ td{
 footer p{
     text-align: center;
     background-color: black;
+    color: white;
 }
