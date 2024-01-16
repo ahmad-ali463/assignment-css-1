@@ -29,7 +29,7 @@ body{
 
 
 .ali{
-    padding-left: 100px;
+   margin-left: 250px;
     height: 20px;
     width: 100px; 
 
@@ -54,7 +54,7 @@ main{
     text-align: center;
 }
 table{
-
+height: 100px;
     width: 100px;
     border: 1 px solid black;
     border-collapse: collapse;
