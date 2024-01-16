@@ -1,0 +1,89 @@
+body{
+    margin: 0%;
+    padding: 0;
+}
+
+.container{
+    width: 100%;
+    margin: 0 auto;
+    color: white;
+   
+    margin-top: 20px;
+    
+}
+.button {
+    float: right;
+  display: inline-block;
+  padding: 10px 20px;
+  /* text-align: center; */
+  text-decoration: none;
+  font-size: 6px;
+  font-weight: bold;
+  color: black;
+  background-color: white;
+  border-radius: 3px;
+  transition: background-color 0.3s ease;
+  margin-right: 200px;
+}
+header{
+    background-color: black;
+   
+  
+}
+
+
+
+
+
+
+.ali{
+    padding-left: 100px;
+    height: 20px;
+    width: 100px; 
+    
+
+
+    
+}
+
+button{
+    background-color: white;
+    color: white;
+    float: right;
+    /* margin-top: 20px; */
+    margin-right: 200px;
+    height: 20px;
+    width: 100px;
+    border-radius: 5px;
+}
+main{
+    background-color: #616161;
+    border-collapse: collapse; 
+}
+
+.aaa{
+    text-align: center;
+}
+table{
+
+    width: 100px;
+    
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+th{
+    border: 1px solid white;
+    padding: 10px;
+    
+}
+td{
+    border: 1px solid white;
+   
+ 
+
+}
+
+footer p{
+    text-align: center;
+    background-color: black;
+}
